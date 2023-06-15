@@ -1,10 +1,21 @@
 {
-  "total": 4,
-  "data": {
+  "km": {
+    "total": 4,
+  "data": [
+    {
     "score": 70,
     "documnet": {
-      "content": "This is testing for external knowledge base. Software testing is the process of evaluating and verifying that a software product or application does what it is supposed to do. The benefits of testing include preventing bugs, reducing development costs and improving performance.",
+      "content": "This is for scroe 70.This is testing for external knowledge base. Software testing is the process of evaluating and verifying that a software product or application does what it is supposed to do. The benefits of testing include preventing bugs, reducing development costs and improving performance.",
       "path" : "https://www.ibm.com/topics/software-testing"
-    }[]
+    }
+  },
+  {
+    "score": 80,
+    "documnet" :{
+        "content": "This is for scroe 80.This is testing for external knowledge base. Software testing is the process of evaluating and verifying that a software product or application does what it is supposed to do. The benefits of testing include preventing bugs, reducing development costs and improving performance.",
+        "path" : "https://www.ibm.com/topics/software-testing"
+      }
+    }
+  ]
   }
 }
